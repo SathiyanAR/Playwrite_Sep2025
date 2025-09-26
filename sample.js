@@ -4,5 +4,6 @@ var a =5
 let b= 10
 let B=5
 console.log(a)
-console.log(b)
+
 console.log(B)
+//test
