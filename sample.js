@@ -1,4 +1,8 @@
 // console.log('hello world');
 var a = 10
 var a =5
-console.log(a);
+let b= 10
+let B=5
+console.log(a)
+console.log(b)
+console.log(B)
